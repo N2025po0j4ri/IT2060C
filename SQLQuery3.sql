@@ -1,0 +1,1 @@
+SELECT FirstName AND LastName FROM Tutors;
